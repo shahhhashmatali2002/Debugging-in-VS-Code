@@ -1,0 +1,4 @@
+Ctrl + shift + p
+And type 
+Python: Select Interpreter
+After click on it select you ernironment and click on run then will show some menu click on Start Debugging
